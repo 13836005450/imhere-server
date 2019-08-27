@@ -1,0 +1,36 @@
+{ "_id" : { "$oid" : "5cb1de44af49d11a85b38415" }, "_openid" : "o5p-A4qJxiOI2gaiwxRA4Ye2iceg", "_name" : "金启亮", "_studentid" : "1714010809", "_groups" : [ 112, 113, 121 ] }
+{ "_id" : { "$oid" : "5cb1de54af49d11a85b38416" }, "_openid" : "o5p-A4mf5P27ToM9OTXNG0nUZ11o", "_name" : "梁老师", "_studentid" : "1714", "_groups" : [ 101, 103, 104, 105, 106, 108, 109, 111, 120, 121, 122, 123 ] }
+{ "_id" : { "$oid" : "5cb1de6faf49d11a85b38417" }, "_openid" : "o5p-A4oamkqvnNqepswyhrEDV5DY", "_name" : "梁薪弛", "_studentid" : "1714010815", "_groups" : [ 102, 103, 108, 110, 119, 121, 123, 126 ] }
+{ "_id" : { "$oid" : "5cb98bc502fc8d4b3a57a091" }, "_openid" : "o5p-A4qr8f0R1HUF41YuFfEfoRR8", "_name" : "许志芳", "_studentid" : "1714010825", "_groups" : [ 104, 107, 111, 115, 116, 117, 121, 125 ] }
+{ "_id" : { "$oid" : "5cba81b13fe7100797151d93" }, "_openid" : "o5p-A4smYQPyZ3D5Em8iIcXvRM5Y", "_name" : "李洪成", "_studentid" : "07172453", "_groups" : [] }
+{ "_id" : { "$oid" : "5cba90943fe7100797151d95" }, "_openid" : "o5p-A4sAmvAQsahHxRcApfsw_g6Q", "_name" : "急急急", "_studentid" : "123456", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbaa9933fe7100797151d98" }, "_openid" : "o5p-A4jTWbBd3d3wtfMmcqII8ulc", "_name" : "孙媛敏", "_studentid" : "0758", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbac3e13fe7100797151d99" }, "_openid" : "o5p-A4jcyJT8fQjnie4Tz117LzI4", "_name" : "啦咯啦咯啦咯", "_studentid" : "123456", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbad2003fe7100797151d9a" }, "_openid" : "o5p-A4kDFS12V0G0qsKj_RL5c3d4", "_name" : "李洪成", "_studentid" : "1714010811", "_groups" : [ 111, 118 ] }
+{ "_id" : { "$oid" : "5cbad20a3fe7100797151d9b" }, "_openid" : "o5p-A4mo1b9lDfG6rFSk6vD9bV0w", "_name" : "齐飞", "_studentid" : "1714010819", "_groups" : [ 111 ] }
+{ "_id" : { "$oid" : "5cbad8543fe7100797151d9c" }, "_openid" : "o5p-A4sV4CM4fmzwjO5cx2DV_5vg", "_name" : "yyy", "_studentid" : "123", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbaf0693fe7100797151d9d" }, "_openid" : "o5p-A4lgC-vchx1UKr5POWV9da7k", "_name" : "于昊", "_studentid" : "1714010828", "_groups" : [ 111, 121 ] }
+{ "_id" : { "$oid" : "5cbaf0743fe7100797151d9e" }, "_openid" : "o5p-A4tD5Z8DLdhE2d437yq7FjWQ", "_name" : "李洪城", "_studentid" : "1714010811", "_groups" : [ 121 ] }
+{ "_id" : { "$oid" : "5cbaf0f23fe7100797151d9f" }, "_openid" : "o5p-A4jCZmoSqRm30fOqbigYpIt8", "_name" : "孔祥鼎", "_studentid" : "1714010180", "_groups" : [ 114, 121 ] }
+{ "_id" : { "$oid" : "5cbb176c3fe7100797151da1" }, "_openid" : "o5p-A4to1A7gjkEq0oy6vV6wZHIo", "_name" : "李莉", "_studentid" : "230204197205062127", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbd7c253fe7100797151da5" }, "_openid" : "o5p-A4rYCRSHqgRe32pQGqXMI2rA", "_name" : "李岩", "_studentid" : "1714010608", "_groups" : [ 118, 124 ] }
+{ "_id" : { "$oid" : "5cbd8f5a3fe7100797151da9" }, "_openid" : "o5p-A4oNCvk6wx0AGD3webIAiJNc", "_name" : "马玺博", "_studentid" : "1714010818", "_groups" : [ 121 ] }
+{ "_id" : { "$oid" : "5cbd90b43fe7100797151dab" }, "_openid" : "o5p-A4k7GNnXpZIC0jpXS9pjPa68", "_name" : "齐健男", "_studentid" : "1714010820", "_groups" : [ 121 ] }
+{ "_id" : { "$oid" : "5cbd91493fe7100797151dac" }, "_openid" : "o5p-A4i5nA4z6174fAvs52ByIvDw", "_name" : "董浩", "_studentid" : "1714010805", "_groups" : [ 121 ] }
+{ "_id" : { "$oid" : "5cbd91903fe7100797151dad" }, "_openid" : "o5p-A4ixqXKqC2PGCQooBI4QzEx8", "_name" : "于博", "_studentid" : "1714010827", "_groups" : [ 121 ] }
+{ "_id" : { "$oid" : "5cbe7206db948f7126a1ebef" }, "_openid" : "o5p-A4v4jqzNusyNgbo2lnwM06Xc", "_name" : "七八班", "_studentid" : "123456", "_groups" : [ 125 ] }
+{ "_id" : { "$oid" : "5cbe7edfdb948f7126a1ebf1" }, "_openid" : "o5p-A4iC0GtMpXZiGKxXoSgTjk7E", "_name" : "李甜甜", "_studentid" : "1714010812", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe7f11db948f7126a1ebf2" }, "_openid" : "o5p-A4hQdHRj-IoqNRs5ovywR89M", "_name" : "常亮", "_studentid" : "1714010803", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe7f28db948f7126a1ebf3" }, "_openid" : "o5p-A4hu-zDxvgui7fZfW3xfx4yk", "_name" : "your dad", "_studentid" : "110", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe7f34db948f7126a1ebf4" }, "_openid" : "o5p-A4gwyvEbTzG8qXKr2P6ZDlvM", "_name" : "石佳贺", "_studentid" : "1714010717", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe7f35db948f7126a1ebf5" }, "_openid" : "o5p-A4mkrPif27hteM3V4Rrug5iE", "_name" : "吴瑀璇", "_studentid" : "1714010725", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe80acdb948f7126a1ebf6" }, "_openid" : "o5p-A4o0A5kH-o9avpkG0Q7DGLiI", "_name" : "苑佳楠", "_studentid" : "1714010729", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe80d6db948f7126a1ebf7" }, "_openid" : "o5p-A4muStgcvCpm9i72DpHm1Z9A", "_name" : "吴怡", "_studentid" : "1714010824", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe8123db948f7126a1ebf8" }, "_openid" : "o5p-A4jL5VqUfacWUH8sFCP0T7Fc", "_name" : "王玮", "_studentid" : "1714010823", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe8140db948f7126a1ebf9" }, "_openid" : "o5p-A4qoMeExi7R-iW1uHkj1j280", "_name" : "边祥和", "_studentid" : "1714010801", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe815edb948f7126a1ebfa" }, "_openid" : "o5p-A4hLfKz847qT8xrJUD9SOn0c", "_name" : "贾志伟", "_studentid" : "1714010808", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe81e7db948f7126a1ebfb" }, "_openid" : "o5p-A4pwaw-KucEHq72iTMQ97hLI", "_name" : "刘晶", "_studentid" : "1714010817", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe8217db948f7126a1ebfc" }, "_openid" : "o5p-A4pN0_qN6diWKMxy7TNuKxa0", "_name" : "崔方正", "_studentid" : "1714010703", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbe8265db948f7126a1ebfd" }, "_openid" : "o5p-A4j3tKlMOu7eE-53f4IMcpi8", "_name" : "高堂畯", "_studentid" : "1714010705", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbea2d1db948f7126a1ebfe" }, "_openid" : "o5p-A4q6sGWvau9xzZGJ438rrnpI", "_name" : "刘金泉", "_studentid" : "1714010711", "_groups" : [] }
+{ "_id" : { "$oid" : "5cbeb4b7db948f7126a1ebff" }, "_openid" : "o5p-A4jo8CXSKhf_Uq3w5V2Lnd5c", "_name" : "赵鑫", "_studentid" : "1714010834", "_groups" : [] }

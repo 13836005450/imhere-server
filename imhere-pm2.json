@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "imhere-server",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
