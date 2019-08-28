@@ -71,6 +71,17 @@ async function getUserId(user_name, user_password) {
     }
     return user._id
 }
+async function getAdminUser(user_name, user_password) {
+    let collection = db.get('admin')
+    let user = await collection.findOne({'用户名': user_name })
+    if (!user) {
+        return -1
+    }
+    if (user['密码'] !== user_password) {
+        return -2
+    }
+    return user
+}
 
 async function changeUserPass(user_name, user_id_card, user_new_pass) {
     var collection = db.get('company_users')
@@ -1544,6 +1555,13 @@ router.post('/companyFormSave', async (ctx) => {
     
     ctx.response.body = 'success'
 })
+
+//分配系统登录
+router.post('/adminLogin', async (ctx)=>{
+    let data = ctx.request.body
+    console.log(data)
+    ctx.body = await getAdminUser(data.user_name, data.user_password)
+});
 
 app.use(cors({
     origin: function (ctx) {
